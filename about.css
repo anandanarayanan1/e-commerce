@@ -1,0 +1,145 @@
+   *{
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto", sans-serif;
+        
+    }
+    
+     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+     body{
+        background-image: url(images/about\ us.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+         overflow-x: hidden;
+     }
+         
+      
+       /* h1 */
+       .nb2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .nb1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    
+    /* search icon */
+
+      .nb3{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1155px;
+        margin-top: -160px;
+      }
+
+    /*like icon*/
+      .nb4{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1200px;
+        margin-top: -160px;
+      }
+
+      /*shopkart icon*/
+      .nb5{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1240px;
+        margin-top: -160px;
+      }
+   
+    
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .ji1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+
+    }
+
+    .home{
+        position: relative;
+        left: 1298px;
+        bottom: 20px;
+        top: -84px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .shop{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -126px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }

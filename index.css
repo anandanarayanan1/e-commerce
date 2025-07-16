@@ -1,0 +1,2273 @@
+    
+    *{
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto", sans-serif;
+        
+    }
+    
+     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+     body{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+         overflow-x: hidden;
+     }
+         
+     .nj1{
+      position: absolute;
+      height: 900px;
+      margin-bottom: 80px;
+     }
+     
+
+     /* marquee */
+
+    .ex1{
+        background-color:black;
+        color:yellow;
+        top: 50px;
+       bottom: 10px;
+        position: relative;
+
+    }
+
+     
+     .ex2{
+      position: relative;
+      font-size: 25px;
+      top: 80px;
+      font-weight: bold;
+     }
+    
+    /* search icon */
+
+      .ex3{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1155px;
+        margin-top: -155px;
+      }
+
+    /*like icon*/
+      .ex4{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1200px;
+        margin-top: -155px;
+      }
+
+      /*shopkart icon*/
+      .ex5{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1240px;
+        margin-top: -155px;
+      }
+   
+    
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .pl1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+
+    }
+
+    .rx1{
+        position: absolute;
+        left: 1298px;
+        bottom: 10px;
+        margin-top: 120px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .rx2{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -126px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+
+                                    /*Best Seller  top content*/
+
+   
+
+     /* h1 */
+       .mr2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .mr1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .ok1{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1140px;
+        margin-top: -243px;
+      }
+
+    /*like icon*/
+      .ok2{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1181px;
+        margin-top: -243px;
+      }
+
+      /*shopkart icon*/
+      .ok3{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1230px;
+        margin-top: -243px;
+      }
+    /* nav li*/
+
+     .mr3{
+        position: relative;
+        left: 1298px;
+        bottom: 20px;
+        top: -84px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+       
+     }
+
+     .mr4{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -126px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .pl1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+    }
+
+                            /* BEST SELLER TOP CONTENT END */
+
+    
+
+
+                            /* KIDS SHOES TOP CONTANT */
+
+    
+     /* h1 */
+       .jk2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .jk1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .sk1{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1155px;
+        margin-top: -168px;
+      }
+
+    /*like icon*/
+      .sk2{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1200px;
+        margin-top: -168px;
+      }
+
+      /*shopkart icon*/
+      .sk3{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1240px;
+        margin-top: -168px;
+      }
+    /* nav li*/
+
+     .jk3{
+        position: relative;
+        left: 1298px;
+        bottom: 20px;
+        top: -90px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .jk4{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -133px;
+         right: 30px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .gy1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+    }
+
+
+                                        /* KIDS SHOES TOP CONTANT END */
+
+
+
+
+                                        /* LIMITED EDITION TOP CONTANT *
+                                    
+    /* h1 */
+       .po2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .po1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .gb1{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1150px;
+        margin-top: -175px;
+      }
+
+    /*like icon*/
+      .gb2{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1190px;
+        margin-top: -175px;
+      }
+
+      /*shopkart icon*/
+      .gb3{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1230px;
+        margin-top: -175px;
+      }
+    /* nav li*/
+
+     .rx1{
+        position: relative;
+        left: 1298px;
+        bottom: 25px;
+        top: -80px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .rx2{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -122px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .pl1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+    }
+
+
+
+
+    
+
+
+
+                           /* LIMITED EDITION TOP CONTANT END */
+
+
+
+
+
+                           /*BEST SELLER MAIN CONTANT*/
+
+    /* BEST SELLER IMG 1 */
+    .ft1{
+        width: 290px;
+        height: 400px;
+        margin-left: 250px;
+        margin-bottom: 20px;
+       
+    }
+
+
+    .ft2{
+        width: 290px;
+        height: 400px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+
+
+    .ft3{
+        width: 280px;
+        height: 400px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+
+
+    .ft4{
+        width: 280px;
+        height: 400px;
+        margin-left: 20px;
+        margin-bottom:20px ;
+    }
+
+    /* BEST SELLER PRODUCT */
+    .fx1{
+        margin-bottom: 22px;
+        margin-left: 250px;
+    }
+    
+    .fx2{
+        margin-top: -569px;
+        margin-left: 20px;
+        font-weight: lighter;
+    }
+
+    .fx3{
+        position: relative;
+        bottom: 20px;
+        left: 75px;
+        font-weight: lighter;
+    }
+
+    .fx4{
+        font-size: 17px;
+       margin-bottom: 10px;
+       margin-left:20px ;
+    }
+
+    .fx5{
+        font-size: 15px;
+        margin-top: 50px;
+        margin-left:20px ;
+        font-weight: lighter;
+        position: relative;
+        bottom: 15px;
+    }
+
+    .fx6{
+        margin-right: 1300px;
+        margin-left: 20px;
+    }
+
+    .fx7{
+        font-size: 14px;
+        margin-top:18px ;
+        margin-left: 17px;
+        font-weight: bold;
+    }
+
+    .fx8{
+        font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px;
+         font-weight: bold;
+    }
+
+    .fx9{
+        font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px;
+         font-weight: bold;
+    }
+
+    .fx10{
+        font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px; 
+         font-weight: bold;
+    }
+
+    .fx11{
+         font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px; 
+         font-weight: bold;
+    }
+
+    .fx12{
+         font-size: 14px;
+        margin-top:90px ;
+        margin-left: 17px; 
+         font-weight: bold;
+    }
+
+    .fx13{
+        margin-left:15px;
+        margin-right: 1299px;
+        margin-top:10px ;
+    }
+
+
+    .gy1{
+        margin-top:140px;
+        margin-left:200px;
+        font-weight: bold;
+    }
+
+    .gy2{
+        margin-top: -920px;
+        margin-left:570px;
+        font-weight: bold;
+    }
+
+    .gy3{
+        margin-left: 890px;
+        margin-bottom: -255px;
+        position: relative;
+        bottom: 37px;
+        font-weight: bold;
+    }
+
+    .gy4{
+      position: relative;
+      top: 180px;
+      left: 1190px;
+      font-weight: bold;
+    }
+    .fx14{
+       margin-top: 40px;
+       margin-left: 18px;
+    }
+
+    .fx15{
+        margin-bottom: 190px;
+        margin-top: -45px;
+        margin-left: 20px;
+    }
+
+    .fx16{
+        font-size: 12px;
+        margin-top: -160px;
+        margin-left: 20px;
+    }
+
+    .fx17{
+        margin-left:113px ;
+        font-size: 12px;
+        margin-top: -15px;
+    }
+
+    .fx18{
+         margin-left:13px;
+         margin-top: 20px;
+         margin-right: 1300px;
+    }
+
+    .fx19{
+        width: 1515px;
+        height: 900px;
+        background-color: black;
+        margin-top: 180px;
+    }
+
+    .fx20{
+       color: white;
+       position: relative;
+       bottom: 865px;
+       left: 20px;
+    }
+
+    .fx21{
+        background-color: goldenrod;
+        width: 920px;
+        height: 255px;
+        position: relative;
+        bottom: 780px;
+        left: 560px;
+        border-radius: 5px;
+        
+    }
+
+    .gt1{
+        font-size: 20px;
+        position: relative;
+        bottom:  1000px;
+        left: 590px;
+        font-weight: lighter;
+    }
+ 
+    /*EMAIL*/
+
+    .lo1{
+        position: relative;
+        left: 600px;
+        bottom: 980px;
+        font-weight: bold;
+    }
+
+    .lo2{
+      position: relative;
+      left: 536px;
+      bottom: 940px;
+      border: 1px solid black;
+      border-radius: 5px;
+      width: 840px;
+      height: 40px;
+    }
+
+    .lo3{
+      position: relative;
+      bottom: 910px;
+      left: 575px;
+      width: 73px;
+      height: 22px;
+      border: 1px solid black;
+    }
+
+    .lo4{
+       position: relative;
+      bottom: 959px;
+      left: 1170px;
+      width: 270px;
+      height: 37px;
+      border: 1px solid black;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .gt3{
+      position: relative;
+      bottom: 935px;
+      left: 640px;
+      font-weight: lighter;
+    }
+
+    /*CONTACT*/
+    .gt4{
+      position: relative;
+      border: 1px solid white;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left: 565px;
+      bottom:895px;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+      
+    }
+
+    /*legal*/
+    .gt5{
+       position: relative;
+      border: 1px solid white;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:932px;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    /*SHOP*/
+    .gt6{
+       position: relative;
+      border: 1px solid white;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:970px;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    /*info@mysite.com*/
+    .gt7{
+        position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:567px;
+      bottom:954px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Terms & Condition*/
+    .gt8{
+       position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:990px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*All Product*/
+    .gt9{
+        position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1026px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*123-456-7890*/
+    .gt10{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:569px;
+      bottom:1010px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Privacy policy*/
+    .gt11{
+       position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:1047px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Best Seller*/
+    .gt12{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1083px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*500 Terry Francine St.SA, CA 9415*/
+    .gt13{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:569px;
+      bottom:1065px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*Shipping Policy*/
+    .gt14{
+      position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:1102px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Performance Series*/
+    .gt15{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1139px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Social Media*/
+    .gt16{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:570px;
+      bottom:1120px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*Refund Policy*/
+    .gt17{
+      position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:1156px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Limited Edition*/
+    .gt18{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1192px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*IG*/
+    .gt19{
+      position: relative;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      left:570px;
+      bottom:1175px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*FB*/
+    .gt20{
+       position: relative;
+      border: 1px solid grey;
+      width: 20px;
+      height:5px;
+      text-align: left;
+      left:672px;
+      bottom:1212px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*TKTK*/
+    .gt21{
+       position: relative;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      left:768px;
+      bottom:1249px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*Accessibility Statement*/
+    .gt22{
+        position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:871px;
+      bottom:1286px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Kids Collection*/
+    .gt23{
+      position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1320.9px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .gt24{
+      position: relative;
+      bottom: 1230px;
+      color: white;
+      left: 580px;
+      font-weight: lighter;
+      font-size: 15px;
+    }
+
+
+
+
+
+
+
+
+      /* best seller option nav*/
+
+      .hn1{
+        position: relative;
+        left:1350px;
+        top: -80px;
+        text-size-adjust: 90px;
+        padding: 10px 20px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        font-weight: bold;
+       color:black;
+      }
+
+
+
+      .hn2{
+        position: relative;
+        left:1350px;
+        top: -50px;
+        text-size-adjust: 90px;
+        padding: 10px 20px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        font-weight: bold;
+       color:black;
+      }
+
+      .hn3{
+              
+         position: relative;
+        left:1350px;
+        top: -20px;
+        text-size-adjust: 90px;
+        padding: 10px 20px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        font-weight: bold;
+       color:black;
+      }
+    
+
+
+
+
+
+
+                                                                     /*HOME PAGE*/
+
+
+   
+
+    .vb1{
+      text-align: left;
+      font-size: 80px;
+      position:relative;
+      left: 45px;
+      bottom: 90px;
+      font-weight: bold;
+    }
+
+    .vb2{
+      text-align: left;
+      font-size: 24px;
+      position: relative;
+      left: 45px;
+      bottom: 59px;
+      font-weight: lighter;
+    }
+
+      .vb3{
+        position: relative;
+        left: 45px;
+        bottom: 39px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 90px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        background-color: black;
+        color: yellow;
+      }
+
+      .vb4{
+      margin-left: 1350px;
+      position: relative;
+      bottom: 112px;
+     }
+
+     .vb5{
+      margin-left: 1350px;
+      position: relative;
+      bottom: 55px;
+     }
+
+     .vb6{
+      margin-left: 1350px;
+      position: relative;
+      
+     }
+
+     .vn1{
+      width: 100px;
+      height: 300px;
+      object-fit: contain;
+      position: absolute;
+      left: 1000px;
+      bottom: 73;
+     }
+
+     .vn3{
+     flex: 1;
+     background-color: beige;
+     padding: 20px;
+     margin-left:990px;
+     width: 470px;
+     height: 230px;
+    margin-top: -40px;
+    margin-right: 5px;
+    border-radius: 8px;
+     }  
+
+     .vn4{
+     position: absolute;
+     font-size: 17px;
+     text-align-last: 90px;
+     border: 1px solid yellow;
+     bottom: 270px;
+     padding: 1px;
+     border-radius: 4px;
+     background-color: gold;
+     width: 50px;
+     left: 1012px;
+     text-align: center;
+    
+     }
+
+     .vn5{
+      position: absolute;
+      font-size: 14px;
+      text-align: left;
+      left: 1365px;
+      bottom: 215px;
+      font-weight: 400;
+     }
+
+     .vn6{
+      position: absolute;
+      font-size: 15px;
+      text-align: right;
+      right: 91px;
+      bottom: 190px;
+     }
+
+     .vn7{
+        position: absolute;
+        left: 1357px;
+        bottom: 100px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 90px;
+        height: 30px;
+        list-style: none;
+        font-weight: bold;
+        background-color: black;
+        color:white;
+     }
+
+     .vn8{
+        position: absolute;
+        background-color: white;
+        width: 1690px;
+        height: 850px;
+        top: 850px;
+
+     }
+
+     .vn9{
+      position: absolute;
+      text-align: left;
+      font-size: 20px;
+      margin-left: 30px;
+      margin-top: 160px;
+      font-weight: lighter;
+     }
+
+     .vn10{
+      position: absolute;
+      width: 345px;
+      height: 460px;
+      margin-top: 220px;
+      margin-left: 25px;
+      border-radius: 5px;
+     }
+
+     .vn11{
+      position: absolute;
+      width: 345px;
+      height: 460px;
+      margin-top: 220px;
+      margin-left: 398px;
+      border-radius: 5px;
+     }
+
+     .vn12{
+      position: absolute;
+      width: 345px;
+      height: 460px;
+      margin-top: 220px;
+      margin-left: 770px;
+      border-radius: 5px;
+     }
+
+     
+
+     .bh1{
+      position: absolute;
+     font-size: 13px;
+     text-align-last: 90px;
+     border: 1px solid beige;
+     top: 985px;
+     padding: 1px;
+     border-radius: 4px;
+     background-color: beige;
+     width:99px;
+     height: 17px;
+     left: 42px;
+     text-align: center;
+     }
+
+     .bh2{
+       position: absolute;
+     font-size: 13px;
+     text-align-last: 90px;
+     border: 1px solid beige;
+     top: 985px;
+     padding: 1px;
+     border-radius: 4px;
+     background-color: beige;
+     width:60px;
+     height: 17px;
+     left: 410px;
+     text-align: center;
+     }
+     
+     .bh3{
+     position: absolute;
+     font-size: 13px;
+     text-align-last: 90px;
+     border: 1px solid beige;
+     top: 985px;
+     padding: 1px;
+     border-radius: 4px;
+     background-color: beige;
+     width:99px;
+     height: 17px;
+     left: 785px;
+     text-align: center;
+     }
+
+     .bh4{
+       position: absolute;
+     font-size: 13px;
+     text-align-last: 90px;
+     border: 1px solid beige;
+     top: 985px;
+     padding: 1px;
+     border-radius: 4px;
+     background-color: beige;
+     width:60px;
+     height: 17px;
+     left: 1160px;
+     text-align: center;
+     }
+
+     .vn13{
+      position: absolute;
+      width: 345px;
+      height: 460px;
+      margin-top: 220px;
+      margin-left: 1145px;
+      border-radius: 8px;
+     }
+
+     .vn14{
+      position: absolute;
+      margin-top: 700px;
+      margin-left: 35px;
+      font-size: 18px;
+      font-weight: bold;
+     }
+
+     .vn15{
+      font-size: 16px;
+      position: absolute;
+      margin-top: 730px;
+      margin-left: 36px;
+      font-weight: lighter;
+     }
+
+     .vn16{
+       position: absolute;
+      margin-top: 700px;
+      margin-left: 415px;
+      font-size: 18px;
+      font-weight: bold;
+     }
+
+     .vn17{
+      font-size: 16px;
+      position: absolute;
+      margin-top: 730px;
+      margin-left: 416px;
+      font-weight: lighter;
+     }
+
+     .vn18{
+      position: absolute;
+      margin-top: 700px;
+      margin-left: 794px;
+      font-size: 18px;
+      font-weight: bold;
+     }
+
+     .vn19{
+       font-size: 16px;
+      position: absolute;
+      margin-top: 730px;
+      margin-left: 796px;
+      font-weight: lighter;
+     }
+
+     .vn20{
+      position: absolute;
+      margin-top: 700px;
+      margin-left: 1175px;
+      font-size: 18px;
+      font-weight: bold;
+     }
+
+     .vn21{
+       font-size: 16px;
+      position: absolute;
+      margin-top: 730px;
+      margin-left: 1177px;
+      font-weight: lighter;
+     }
+
+     .vn22{
+      width: 100px;
+      height: 800px;
+      object-fit: contain;
+      position: absolute;
+      margin-left: 1px;
+      margin-top: 850px;
+      margin-bottom: 10px;
+      
+     }
+
+     .vn23{
+      position: absolute;
+      font-size: 90px;
+      margin-top: 940px;
+      margin-left: 30px;
+      font-weight: bold;
+     }
+
+     .vn24{
+      position: absolute;
+      font-size: 90px;
+      margin-top: 1050px;
+      margin-left: 30px;
+      font-weight: bold;
+     }
+
+     .vn25{
+      font-size: 20px;
+      position: absolute;
+      margin-top: 1235px;
+      margin-left: 28px;
+      font-weight: lighter;
+     }
+
+     .vn26{
+       position: relative;
+        left: 26px;
+        top: 1165px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 90px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        background-color: black;
+        color: yellow;
+     }
+
+     .vn27{
+      position: absolute;
+      flex: 1;
+     background-color: beige;
+     padding: 20px;
+     margin-left:985px;
+     width: 450px;
+     height: 230px;
+    margin-top: 1660px;
+    margin-left: 1005px;
+    border-radius: 5px;
+     }
+
+     .vn28{
+      position: absolute;
+      width: 85px;
+      height: auto;
+      object-fit: contain;
+      margin-left: 1015px;
+      margin-top: 1668px;
+     }
+
+     .vn29{
+      position: relative;
+      font-size: 17px;
+      text-align: left;
+      top:1695px;
+      left: 1309px;
+      font-weight: 530;
+     }
+
+     .vn30{
+      position: relative;
+      font-size: 16px;
+      text-align: right;
+      right: 146px;
+      top: 1700px;
+     }
+
+     .vn31{
+       position: relative;
+        left: 1305px;
+        bottom: -1790px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 90px;
+        height: 30px;
+        list-style: none;
+        font-weight: bold;
+        background-color: black;
+        color:white;
+     }
+
+     .vn32{
+        position: absolute;
+        background-color: black;
+        color: white;
+        margin-top: 1830px;
+        padding-top: 30px;
+        padding-bottom: 5px;
+       
+      
+     }
+
+    
+
+     .vn33{
+      position: absolute;
+      font-size: 20px;
+      margin-top: 2025px;
+      margin-left: 35px;
+      font-weight: lighter;
+     }
+
+    .vn34{
+      position: absolute;
+      background-color: white;
+      width:1550px;
+      height: 530px;
+      margin-top: 2200px;
+    }
+    
+    .vn35{
+      position: absolute;
+      margin-top: 2080px;
+      margin-left: 32px;
+    }
+
+    .vn36{
+       position: relative;
+        left: 59px;
+        top: 2525px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 170px;
+        height: 20px;
+        list-style: none;
+        font-weight: lighter;
+        background-color: lightgray;
+        color:black;
+    }
+
+    .vn37{
+       position: absolute;
+      margin-top: 2039px;
+      margin-left: 520px;
+    }
+
+    .vn38{
+      position: relative;
+        left: 540px;
+        top: 2488px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 170px;
+        height: 20px;
+        list-style: none;
+        font-weight: lighter;
+        background-color: lightgray;
+        color:black;
+    }
+
+    .vn39{
+      position: absolute;
+      margin-top: 1997px;
+      margin-left: 1009px;
+    }
+
+    .vn40{
+        position: relative;
+        left: 1030px;
+        top: 2446px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 170px;
+        height: 20px;
+        list-style: none;
+        font-weight: lighter;
+        background-color: lightgray;
+        color:black;
+    }
+
+    .vn41{
+      object-fit: contain;
+      position: absolute;
+      margin-left: 1px;
+      margin-top: 2600px;
+    }
+
+    .vn42{
+      position: absolute;
+      margin-top:2776px;
+      font-size: 90px;
+      font-weight: bold;
+      margin-left: 40px;
+    }
+
+    .vn43{
+      position: absolute;
+      background-color: grey;
+      width:430px;
+      height:285px;
+      margin-left:1050px;
+      margin-right: 90px;
+      border-radius: 5px;
+      margin-top: 3290px;
+    }
+
+    .vn44{
+      position: absolute;
+      text-align: left;
+      margin-left: 1068px;
+      margin-top: 3320px;
+    }
+
+    .vn45{
+       position: relative;
+        left: 1068px;
+        top: 3520px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 90px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        background-color: gray;
+        color: yellow;
+    }
+
+    .vn46{
+      background-color: white;
+      position: absolute;
+      width: 1520px;
+      height: 590px;
+      top: 4600px;
+    }
+
+    .vn47{
+      position: absolute;
+      margin-top: 3650px;
+      margin-left: 30px;
+      font-size: 25px;
+      font-weight: bold;
+    }
+    
+    .vn48{
+      position: absolute;
+      background-color: black;
+      width: 450px;
+      height: 250px;
+      margin-top: 3705px;
+      margin-left: 596px;
+      border-radius: 8px;
+    }
+
+    .vn49{
+      position: absolute;
+      color: white;
+       margin-top: 3750px;
+       margin-left: 620px;
+    }
+    
+    .vn50{
+      position: absolute;
+      background-color: white;
+      border: 1px solid black;
+      width: 430px;
+      height: 250px;
+      margin-top: 3705px;
+      margin-left:1055px ;
+      border-radius: 8px;
+    }
+
+    .vn51{
+      position: absolute;
+      margin-top: 3750px;
+      margin-left: 1080px;
+      font-weight: bold;
+    }
+
+    .vn52{
+      position: absolute;
+      background-color: black;
+      width: 1520px;
+      height: 875px;
+      margin-top:4100px ;
+    }
+
+    .vn53{
+      position: absolute;
+      margin-left: 35px;
+      margin-top: 4170px;
+      color: #f0f0f0;
+      font-weight: bold;
+      font-size:30px;
+    }
+
+    .vn54{
+      position: absolute;
+      background-color: goldenrod;
+      width: 920px;
+      height: 255px;
+      margin-top: 4250px;
+      margin-left: 560px;
+      border-radius: 8px;
+    }
+
+    .vn55{
+      position: absolute;
+      font-size: 18px;
+      margin-left: 590px;
+      margin-top: 4285px;
+    }
+
+    .vn56{
+      position: absolute;
+      font-size: 15px;
+      margin-top: 4336px;
+      margin-left: 595px;
+      font-weight: bold;
+      
+      
+    }
+
+    .vn57{
+      position: absolute;
+      width: 850px;
+      height: 40px;
+      margin-left: 595px;
+      margin-top: 4365px;
+      border-radius: 8px;
+      border-color:1px solid gray;
+    }
+
+    .vn58{
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      margin-left: 605px;
+      margin-top: 4435px;
+     
+    }
+
+    .vn59{
+      position: absolute;
+      margin-left: 645px;
+      margin-top: 4440px;
+      font-size: 15px;
+    }
+    
+    .vn60{
+      position: absolute;
+      width: 248px;
+      height: 40px;
+      margin-left: 1200px;
+      margin-top: 4435px;
+      border-radius: 8px;
+      border-color: 1px solid gray;
+    }
+   
+    .vn61{
+      position: absolute;
+      border: 1px solid gray;
+      width: 210px;
+      height:5px;
+      text-align: left;
+      margin-left: 560px;
+      margin-top:4530px ;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    .vn62{
+       position: absolute;
+      border: 1px solid gray;
+      width: 249px;
+      height:5px;
+      text-align: left;
+      margin-left: 855px;
+      margin-top:4530px ;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    .vn63{
+      position: absolute;
+      border: 1px solid gray;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      margin-left: 1190px;
+      margin-top:4530px ;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    .vn64{
+        position: absolute;
+      border: 1px solid gray;
+      width: 210px;
+      height:5px;
+      text-align: left;
+      margin-left: 559px;
+      margin-top: 4579px;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .vn65{
+       position: absolute;
+      border: 1px solid gray;
+      width: 249px;
+      height:5px;
+      text-align: left;
+      margin-left: 856px;
+      margin-top:4579px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color:black;
+    }
+
+    .vn66{
+      position: absolute;
+      border: 1px solid gray;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      margin-left: 1190px;
+      margin-top:4579px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .vn67{
+       position: absolute;
+      border: 1px solid gray;
+      width: 211px;
+      height:5px;
+      text-align: left;
+      margin-left: 560px;
+      margin-top: 4630px;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .vn68{
+       position: absolute;
+      border: 1px solid gray;
+      width: 249px;
+      height:5px;
+      text-align: left;
+      margin-left: 856px;
+      margin-top:4630px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color:black;
+    }
+
+    .vn69{
+       position: absolute;
+      border: 1px solid gray;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      margin-left: 1190px;
+      margin-top:4630px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .vn70{
+       position: absolute;
+      border: 1px solid grey;
+      width: 210px;
+      height:5px;
+      text-align: left;
+      margin-left:560px;
+      margin-top:4679px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    .vn71{
+       position: absolute;
+      border: 1px solid gray;
+      width: 250px;
+      height:5px;
+      text-align: left;
+      margin-left: 855px;
+      margin-top:4680px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color:black;
+    }  
+
+    .vn72{
+       position: absolute;
+      border: 1px solid gray;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      margin-left: 1190px;
+      margin-top:4680px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+
+    }
+
+    .vn73{
+        position: absolute;
+      border: 1px solid grey;
+      width: 210px;
+      height:5px;
+      text-align: left;
+      margin-left:560px;
+      margin-top:4728px;
+      color:black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+      font-size: 14px;
+    }
+
+    .vn74{
+       position: absolute;
+      border: 1px solid gray;
+      width: 249px;
+      height:5px;
+      text-align: left;
+      margin-left: 856px;
+      margin-top:4729px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color:black;
+    }
+
+    .vn75{
+      position: absolute;
+      border: 1px solid gray;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      margin-left: 1190px;
+      margin-top:4729px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .vn76{
+      position: absolute;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      margin-left:560px;
+      margin-top:4777px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    .vn77{
+        position: absolute;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      margin-left:655px;
+      margin-top:4777px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    .vn78{
+      position: absolute;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      margin-left:750px;
+      margin-top:4777px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    .vn79{
+       position: absolute;
+      border: 1px solid gray;
+      width: 249px;
+      height:5px;
+      text-align: left;
+      margin-left: 856px;
+      margin-top:4778px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color:black;
+    }
+
+    .vn80{
+       position: absolute;
+      border: 1px solid gray;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      margin-left: 1190px;
+      margin-top:4778px ;
+      color: white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .vn81{
+      position: absolute;
+      margin-top: 4890px;
+      margin-left: 563px;
+      color: white;
+      font-weight: lighter;
+      font-size: 14px;
+    }
+
+   

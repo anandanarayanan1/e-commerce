@@ -1,0 +1,1212 @@
+              
+    *{
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto", sans-serif;
+        
+    }
+    
+     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+     body{
+        /* background-image: url(./images/vecteezy_green-sneakers-or-sport-running-shoe-isolated-on-a-white_7710514.jpg); */
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+         overflow-x: hidden;
+     }
+         
+      
+       /* h1 */
+       .ex2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .ex1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .ex3{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: fixed;
+        margin-left: 1155px;
+        margin-top: -159px;
+      }
+
+    /*like icon*/
+      .ex4{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: fixed;
+        margin-left: 1200px;
+        margin-top: -159px;
+      }
+
+      /*shopkart icon*/
+      .ex5{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: fixed;
+        margin-left: 1250px;
+        margin-top: -159px;
+      }
+    /* nav li*/
+
+     .rx1{
+        position: relative;
+        left: 1298px;
+        bottom: 20px;
+        top: -84px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .rx2{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -126px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .pl1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+
+    }
+
+                                    /*Best Seller  top content*/
+
+   
+
+     /* h1 */
+       .mr2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .mr1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .ok1{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1155px;
+        margin-top: -180px;
+      }
+
+    /*like icon*/
+      .ok2{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1200px;
+        margin-top: -180px;
+      }
+
+      /*shopkart icon*/
+      .ok3{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1250px;
+        margin-top: -180px;
+      }
+    /* nav li*/
+
+     .mr3{
+        position: relative;
+        left: 1298px;
+        bottom: 20px;
+        top: -84px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .mr4{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -126px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .pl1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+    }
+
+                            /* BEST SELLER TOP CONTENT END */
+
+    
+
+
+                            /* KIDS SHOES TOP CONTANT */
+
+    
+     /* h1 */
+       .jk2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .jk1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .sk1{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1155px;
+        margin-top: -230px;
+      }
+
+    /*like icon*/
+      .sk2{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1200px;
+        margin-top: -230px;
+      }
+
+      /*shopkart icon*/
+      .sk3{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1240px;
+        margin-top: -230px;
+      }
+    /* nav li*/
+
+     .jk3{
+        position: relative;
+        left: 1298px;
+        bottom: 20px;
+        top: -90px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .jk4{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -133px;
+         right: 30px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .gy1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+    }
+
+
+                                        /* KIDS SHOES TOP CONTANT END */
+
+
+
+
+                                        /* LIMITED EDITION TOP CONTANT *
+                                    
+    /* h1 */
+       .po2{
+        text-align: left;
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+        margin-top: -1px;
+        margin-bottom: 40px;
+        
+        }
+
+     /* marquee */
+
+    .po1{
+        background-color: black;
+        color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+   
+    /* search icon */
+
+      .gb1{
+          text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1150px;
+        margin-top: -175px;
+      }
+
+    /*like icon*/
+      .gb2{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1190px;
+        margin-top: -175px;
+      }
+
+      /*shopkart icon*/
+      .gb3{
+        text-align: center;
+          display: flex;
+        font-size: 10px; 
+        width: 38px;
+        height: 30px;
+        position: absolute;
+        margin-left: 1230px;
+        margin-top: -175px;
+      }
+    /* nav li*/
+
+     .po3{
+        position: relative;
+        left: 1298px;
+        bottom: 25px;
+        top: -80px;
+        text-size-adjust: 90px;
+        background-color: #f0f0f0;
+        border: 1px solid #666;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 15px;
+        text-align: center;
+        width: 50px;
+        height: 20px;
+        list-style: none;
+        font-weight: bold;
+        
+     }
+
+     .po4{
+         position: relative;
+         left: 1410px;
+         bottom: 130px;
+         text-size-adjust: 90px;
+         background-color: #f0f0f0;
+         border: 1px solid #666;
+         border-radius: 20px;
+         padding: 10px 20px;
+         font-family: Arial, sans-serif;
+         font-size: 15px;
+         text-align: center;
+         width: 50px;
+         height: 20px;
+         top: -125px;
+         right: 40px;
+         list-style: none;
+         font-weight: bold;
+         
+     }
+       
+    /* href a */
+
+     a{
+        text-decoration: none;
+       
+     }
+     
+    /* nav ul */
+    
+     nav{
+         position:sticky; top: 0;
+        backdrop-filter:(45px);
+     }
+    
+    /* form */
+
+    .pl1{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        margin:20px;
+        width: 880px;
+        height: 850px;
+
+    }
+
+
+    
+
+
+
+                           /* LIMITED EDITION TOP CONTANT END */
+
+
+
+
+
+                           /*KIDS SHOES MAIN CONTANT*/
+
+    /* BEST SELLER IMG 1 */
+    .bg1{
+        width: 290px;
+        height: 400px;
+        margin-left: 250px;
+        margin-bottom: 20px;
+       
+    }
+
+
+    .bg2{
+        width: 290px;
+        height: 400px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+
+
+    .bg3{
+        width: 280px;
+        height: 400px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+
+
+    .bg4{
+        width: 280px;
+        height: 400px;
+        margin-left: 20px;
+        margin-bottom:20px ;
+    }
+
+    /* BEST SELLER PRODUCT main contant */
+    .bn1{
+        margin-bottom: 22px;
+        margin-left: 250px;
+    }
+    
+    .bg5{
+        margin-top: -569px;
+        margin-left: 20px;
+        font-weight: lighter;
+    }
+
+    .bg6{
+        position: relative;
+        bottom: 20px;
+        left: 75px;
+        font-weight: lighter;
+    }
+
+    .bg7{
+        font-size: 17px;
+       margin-bottom: 10px;
+       margin-left:20px ;
+    }
+
+    .bg8{
+        font-size: 15px;
+        margin-top: 50px;
+        margin-left:20px ;
+        font-weight: lighter;
+        position: relative;
+        bottom: 15px;
+    }
+
+    .bg9{
+        margin-right: 1300px;
+        margin-left: 20px;
+    }
+
+    .bg10{
+        font-size: 14px;
+        margin-top:18px ;
+        margin-left: 17px;
+        font-weight: bold;
+    }
+
+    .bg11{
+        font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px;
+         font-weight: bold;
+    }
+
+    .bg12{
+        font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px;
+         font-weight: bold;
+    }
+
+    .bg13{
+        font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px; 
+         font-weight: bold;
+    }
+
+    .bg14{
+         font-size: 14px;
+        margin-top:10px ;
+        margin-left: 17px; 
+         font-weight: bold;
+    }
+
+    .bg15{
+         font-size: 14px;
+        margin-top:90px ;
+        margin-left: 17px; 
+         font-weight: bold;
+    }
+
+    .bg16{
+        margin-left:15px;
+        margin-right: 1299px;
+        margin-top:10px ;
+    }
+
+     
+    
+    .bg17{
+       margin-top: 40px;
+       margin-left: 18px;
+    }
+
+    .bg18{
+        margin-bottom: 190px;
+        margin-top: -45px;
+        margin-left: 20px;
+    }
+
+    .bg19{
+        font-size: 12px;
+        margin-top: -160px;
+        margin-left: 20px;
+    }
+
+    .bg20{
+        margin-left:113px ;
+        font-size: 12px;
+        margin-top: -15px;
+    }
+
+    .bg21{
+         margin-left:13px;
+         margin-top: 20px;
+         margin-right: 1300px;
+    }
+
+       .bg22{
+         margin-left:13px;
+         margin-top: 20px;
+         margin-right: 1300px;
+    }
+
+    .bg23{
+        width: 1515px;
+        height: 900px;
+        background-color: black;
+        margin-top: 180px;
+    }
+
+    .bg24{
+       color: white;
+       position: relative;
+       bottom: 865px;
+       left: 20px;
+    }
+
+    .bg25{
+        background-color: goldenrod;
+        width: 920px;
+        height: 255px;
+        position: relative;
+        bottom: 780px;
+        left: 560px;
+        border-radius: 5px;
+        
+    }
+
+    /* stay update*/
+
+    .bg26{
+        font-size: 20px;
+        position: relative;
+        bottom:  1000px;
+        left: 590px;
+        font-weight: lighter;
+    }
+ 
+    /*EMAIL*/
+
+    .bg27{
+        position: relative;
+        left: 600px;
+        bottom: 980px;
+        font-weight: bold;
+    }
+
+    .bg28{
+      position: relative;
+      left: 536px;
+      bottom: 940px;
+      border: 1px solid black;
+      border-radius: 5px;
+      width: 840px;
+      height: 40px;
+    }
+
+    .bg29{
+      position: relative;
+      bottom: 930px;
+      left: 575px;
+      width: 73px;
+      height: 22px;
+      border: 1px solid black;
+    }
+
+    .bg31{
+       position: relative;
+      bottom: 980px;
+      left: 1170px;
+      width: 270px;
+      height: 37px;
+      border: 1px solid black;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .bg30{
+      position: relative;
+      bottom: 955px;
+      left: 640px;
+      font-weight: lighter;
+    }
+
+    /*CONTACT*/
+    .bg32{
+      position: relative;
+      border: 1px solid white;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left: 565px;
+      bottom:895px;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+      
+    }
+
+    /*legal*/
+    .bg33{
+       position: relative;
+      border: 1px solid white;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:932px;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    /*SHOP*/
+    .bg34{
+       position: relative;
+      border: 1px solid white;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:970px;
+      color: black;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: white;
+    }
+
+    /*info@mysite.com*/
+    .bg35{
+        position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:567px;
+      bottom:954px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Terms & Condition*/
+    .bg36{
+       position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:990px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*All Product*/
+    .bg37{
+        position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1026px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*123-456-7890*/
+    .bg38{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:569px;
+      bottom:1010px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Privacy policy*/
+    .bg39{
+       position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:1047px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Best Seller*/
+    .bg40{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1083px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*500 Terry Francine St.SA, CA 9415*/
+    .bg41{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:569px;
+      bottom:1065px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*Shipping Policy*/
+    .bg42{
+      position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:1102px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Performance Series*/
+    .bg43{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1139px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Social Media*/
+    .bg44{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:570px;
+      bottom:1120px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*Refund Policy*/
+    .bg45{
+      position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:870px;
+      bottom:1156px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Limited Edition*/
+    .bg46{
+       position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1192px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*IG*/
+    .bg47{
+      position: relative;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      left:570px;
+      bottom:1175px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*FB*/
+    .bg48{
+       position: relative;
+      border: 1px solid grey;
+      width: 20px;
+      height:5px;
+      text-align: left;
+      left:672px;
+      bottom:1212px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*TKTK*/
+    .bg49{
+       position: relative;
+      border: 1px solid grey;
+      width: 22px;
+      height:5px;
+      text-align: left;
+      left:768px;
+      bottom:1249px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+      font-size: 14px;
+    }
+
+    /*Accessibility Statement*/
+    .bg50{
+        position: relative;
+      border: 1px solid grey;
+      width: 243px;
+      height:5px;
+      text-align: left;
+      left:871px;
+      bottom:1286px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    /*Kids Collection*/
+    .bg51{
+      position: relative;
+      border: 1px solid grey;
+      width: 220px;
+      height:5px;
+      text-align: left;
+      left:1200px;
+      bottom:1320.9px;
+      color:white;
+      display: flex;
+      padding :15px 32px;
+      cursor: pointer;
+      border-radius: 5px;
+      background-color: black;
+    }
+
+    .bg52{
+      position: relative;
+      bottom: 1230px;
+      color: white;
+      left: 580px;
+      font-weight: lighter;
+      font-size: 15px;
+    }
+
+
+
+
+          /* kids css page link*/
+
+
+
+      
+      .mb1{
+        position: relative;
+        left:1350px;
+        top: -80px;
+        text-size-adjust: 90px;
+        padding: 10px 20px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        font-weight: bold;
+       color:black;
+      }
+
+
+
+      .mb2{
+        position: relative;
+        left:1350px;
+        top: -50px;
+        text-size-adjust: 90px;
+        padding: 10px 20px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        font-weight: bold;
+       color:black;
+      }
+
+      .mb3{
+              
+         position: relative;
+        left:1350px;
+        top: -20px;
+        text-size-adjust: 90px;
+        padding: 10px 20px;
+        font-size: 17px;
+        text-align: center;
+        list-style: none;
+        font-weight: bold;
+       color:black;
+      }
+    
+       .mb4{
+      margin-left: 1350px;
+      position: relative;
+      bottom: 109px;
+     }
+
+     .mb5{
+      margin-left: 1350px;
+      position: relative;
+      bottom: 55px;
+     }
+
+     .mb6{
+      margin-left: 1350px;
+      position: relative;
+     }
